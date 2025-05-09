@@ -45,9 +45,16 @@ Dieses Skript:
 
 ### 1. Klone dieses Repository
 
+Forke dieses Repository in deinen eigenen GitHub-Account.  Danach:
+
+
 ```bash
-git clone https://github.com/dein-benutzername/ausweisapp2-wrapper.git
+git clone https://github.com/<dein-github-benutzername>/ausweisapp2-linux-wrapper.git
 ```
+
+Ersetze `<github-benutzername>` ggf. durch den tatsächlichen Namen des Forks
+
+Danach:
 
 ```bash
 cd ausweisapp2-wrapper
