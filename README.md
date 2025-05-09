@@ -31,9 +31,10 @@ Dieses Skript:
 
 - **Linux Mint** oder vergleichbares Debian-basiertes System
 - **Flatpak** und **AusweisApp2** installiert:  
-  ```bash
+
+```bash
   flatpak install flathub de.bund.ausweisapp.ausweisapp2
-````
+```
 
 * **UFW** ist aktiv (kann mit `sudo ufw status` geprüft werden)
 * `notify-send` ist installiert (Teil von `libnotify-bin`)
@@ -46,6 +47,9 @@ Dieses Skript:
 
 ```bash
 git clone https://github.com/dein-benutzername/ausweisapp2-wrapper.git
+```
+
+```bash
 cd ausweisapp2-wrapper
 ```
 
@@ -73,7 +77,7 @@ Exec=/pfad/zu/ausweisapp-wrapper.sh
   cp ausweisapp2-wrapper.desktop ~/.local/share/applications/
   ```
 
-  Danach:
+Danach:
 
   ```bash
   update-desktop-database ~/.local/share/applications/
