@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=AusweisApp2 Wrapper
+GenericName=eID Personalausweis-Anwendung
+Comment=Startet die AusweisApp2 mit temporärer Deaktivierung der Firewall (UFW)
+Exec=/pfad/zum/ausweisapp-wrapper.sh
+Icon=de.bund.ausweisapp.ausweisapp2
+Terminal=false
+Type=Application
+Categories=Utility;Security;Network;
+Keywords=Ausweis;Firewall;UFW;NFC;eID;Sicherheit;
+StartupNotify=true
