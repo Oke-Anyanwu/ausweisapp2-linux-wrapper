@@ -149,4 +149,3 @@ MIT-Lizenz – siehe [LICENSE](LICENSE) für weitere Informationen.
 Entstanden aus eigener Erfahrung und Frustration bei der Arbeit mit der AusweisApp. Da keine Lösung für das geschilderte Problem auffindbar war, habe ich mich ans Werk gemacht – und dies hier ist das Ergebnis. Getestet unter Linux Mint mit UFW und Flatpak.
 
 ````
->>>>>>> 1e5f8c2 (Initialer Commit: AusweisApp2 UFW Wrapper für Linux)
