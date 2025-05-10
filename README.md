@@ -148,6 +148,22 @@ Das Wrapper-Skript schaltet die Firewall vorübergehend aus. Auch wenn das Risik
 
 ---
 
+## 🤝 Beiträge und Verbesserungsvorschläge
+
+Beiträge, Verbesserungsvorschläge oder Fehlerberichte sind jederzeit willkommen!
+
+Wenn du helfen möchtest, das Projekt zu verbessern:
+
+   * Forke das Repository..
+   * Erstelle einen neuen Branch (git checkout -b feature/meine-idee).
+   * Nimm deine Änderungen vor.
+   * Committe deine Änderungen (git commit -m 'Meine Verbesserung').    
+   * Pushe den Branch (git push origin feature/meine-idee).
+  * Stelle einen Pull Request.
+
+Oder melde gerne direkt ein Issue, wenn du einen Fehler findest oder eine Idee teilen möchtest.
+
+
 ## 📝 Lizenz
 
 MIT-Lizenz – siehe [LICENSE](LICENSE) für weitere Informationen.
